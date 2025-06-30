@@ -1,0 +1,27 @@
+.ForecastFooter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    background-color: #646cff;
+    font-size: 14px;
+    text-align: center;
+}
+
+.FooterItem {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.FooterComment {
+    width: 100%;
+    margin-top: 12px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}

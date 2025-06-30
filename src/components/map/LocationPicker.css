@@ -1,0 +1,29 @@
+.location-search-box {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.location-input {
+    padding: 8px;
+    width: 250px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 8px;
+}
+
+.map-container {
+    width:100%;
+    height: 500px;
+    min-height: 500px;
+    min-width: 65vw;
+    margin: 0 auto;
+}
+
+.coord-info {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.SearchButton{
+    background-color: #5B5FD4;
+}

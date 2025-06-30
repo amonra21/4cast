@@ -1,0 +1,29 @@
+.Logo {
+    font-size: 80px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    user-select: none;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.LogoStart {
+    color: #f2cd8c;
+}
+
+.LogoEnd {
+    color: #c49e41;
+}
+
+.LogoImage {
+    height: 1.2em;
+    aspect-ratio: 1;
+    object-fit: contain;
+    vertical-align: middle;
+    margin-top:-40px;
+    margin-left:-15px;
+    margin-right:-5px;
+}
